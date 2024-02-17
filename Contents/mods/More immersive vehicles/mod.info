@@ -1,4 +1,5 @@
-name=More immersive: vehicles
+name=More Immersive Vehicles
 id=DG_MIVehicles
-description=This is an example mod containing two maps.
+description=Vehicles can now have doors, windows or trunk open when spawning.
 poster=poster.png
+authors=DaNiG

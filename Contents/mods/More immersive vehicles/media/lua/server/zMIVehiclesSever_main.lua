@@ -1,3 +1,8 @@
+--===============================================--
+--If you're here, it means you need something. Text me, we'll talk.
+--Discord: danig
+--===============================================--
+
 local function checkVehicle(vehicle)
 	return vehicle and not vehicle:isGoodCar() and not vehicle:isAlarmed()
 end
@@ -17,7 +22,7 @@ end
 local old_Vehicles_Create_Door = Vehicles.Create.Door
 function Vehicles.Create.Door(vehicle, part)
 	old_Vehicles_Create_Door(vehicle, part)
-	if doorCanBeOpened(part) and open(SandboxVars.DoorsReality.OpenedDoorChance) then
+	if doorCanBeOpened(part) and open(SandboxVars.MoreImmersiveVehicles.OpenedDoorChance) then
 		part:getDoor():setOpen(true)
 		vehicle:transmitPartDoor(part)
 	end
@@ -26,7 +31,7 @@ end
 local old_Vehicles_Create_TrunkDoor = Vehicles.Create.TrunkDoor
 function Vehicles.Create.TrunkDoor(vehicle, part)
 	old_Vehicles_Create_TrunkDoor(vehicle, part)
-	if doorCanBeOpened(part) and open(SandboxVars.DoorsReality.OpenedTrunkDoorChance) then
+	if doorCanBeOpened(part) and open(SandboxVars.MoreImmersiveVehicles.OpenedTrunkDoorChance) then
 		part:getDoor():setOpen(true)
 		vehicle:transmitPartDoor(part)
 	end
@@ -35,7 +40,7 @@ end
 local old_Vehicles_Create_Window = Vehicles.Create.Window
 function Vehicles.Create.Window(vehicle, part)
 	old_Vehicles_Create_Window(vehicle, part)
-	if windowCanBeOpened(part) and open(SandboxVars.DoorsReality.OpenedWindowChance) then
+	if windowCanBeOpened(part) and open(SandboxVars.MoreImmersiveVehicles.OpenedWindowChance) then
 		part:getWindow():setOpen(true)
 		vehicle:transmitPartWindow(part)
 	end
@@ -46,7 +51,7 @@ end
 local old_Vehicles_Create_Default = Vehicles.Create.Default 
 function Vehicles.Create.Default(vehicle, part)
 	old_Vehicles_Create_Default(vehicle, part)
-	if part:getId():contains('EngineDoor') and doorCanBeOpened(part) and open(SandboxVars.DoorsReality.OpenedEngineDoorChance) then
+	if part:getId():contains('EngineDoor') and doorCanBeOpened(part) and open(SandboxVars.MoreImmersiveVehicles.OpenedEngineDoorChance) then
 		local doorFrontLeft = vehicle:getPartById("DoorFrontLeft")
 		if doorFrontLeft and doorFrontLeft:getDoor() and not doorFrontLeft:getDoor():isLocked() then
 			print(vehicle:getScriptName() .. tostring(doorFrontLeft:getDoor():isLocked()))
@@ -55,11 +60,10 @@ function Vehicles.Create.Default(vehicle, part)
 		end
 	end
 
-	option DoorsReality.OpenedEngineDoorChance
+	option MoreImmersiveVehicles.OpenedEngineDoorChance
 	{
 		type = integer, min = 0, max = 100, default = 25,
-		page = DoorsReality, translation = OpenedEngineDoorChance,
+		page = MoreImmersiveVehicles, translation = OpenedEngineDoorChance,
 	}
-
 
 end]]

@@ -1,0 +1,11 @@
+Sandbox_RU = {
+    Sandbox_MoreImmersiveVehicles = "More Immersive Vehicles",
+    Sandbox_OpenedDoorChance = "Шанс открытой двери",
+	Sandbox_OpenedDoorChance_tooltip = "Какой шанс на то, что дверь будет открыта.",
+	
+	Sandbox_OpenedTrunkDoorChance = "Шанс открытого багажника",
+	Sandbox_OpenedTrunkDoorChance_tooltip = "Какой шанс на то, что багажник будет открыт.",
+	
+	Sandbox_OpenedWindowChance = "Шанс открытого окна",
+	Sandbox_OpenedWindowChance_tooltip = "Какой шанс на то, что окно будет открыто.",
+}
