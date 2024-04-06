@@ -1,23 +1,23 @@
 version=1
 id=3162566044
 title=More Immersive Vehicles
-description=Project Zomboid is quite a realistic game, but the developers missed one point. Vehicles in the world appear only with closed doors, raised windows and closed trunks. This mod adds more immersiveness and atmosphere to the game! Vehicles can now have doors open, windows down, or trunks open.
-description=
-description=I highly recommend using this mod along with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807356025]Shark and Cytt's Kentucky Car Overhaul[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2490220997]vehicles by KI5[/url].
-description=Don't forget to adjust the probabilities in the sandbox settings!
-description=
-description=[b]This mod can be added and removed from your saves without any problems.[/b]
-description=
-description=[b]WORKS IN SINLEPLAYER AND MULTIPLAYER![/b]
-description=
-description=[b]COMPATIBILITY[/b]
-description=Should be with all vehicles. If it is not, please let me know.
-description=
-description=[b]INCOMPATIBILITY[/b]
-description=Not sure, but possible with mods that add a new part that can be opened.
-description=
-description=[img]https://i.imgur.com/4HonJNk.png[/img]
-description=
+description=Project Zomboid is quite a realistic game, but the developers missed one point. Vehicles in the world appear only with closed doors, raised windows and closed trunks. This mod adds more immersiveness and atmosphere to the game! Vehicles can now have doors open, windows down, or trunks open.
+description=
+description=I highly recommend using this mod along with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807356025]Shark and Cytt's Kentucky Car Overhaul[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2490220997]vehicles by KI5[/url].
+description=Don't forget to adjust the probabilities in the sandbox settings!
+description=
+description=[b]This mod can be added and removed from your saves without any problems.[/b]
+description=
+description=[b]WORKS IN SINLEPLAYER AND MULTIPLAYER![/b]
+description=
+description=[b]COMPATIBILITY[/b]
+description=Should be with all vehicles. If it is not, please let me know.
+description=
+description=[b]INCOMPATIBILITY[/b]
+description=Not sure, but possible with mods that add a new part that can be opened.
+description=
+description=[img]https://i.imgur.com/4HonJNk.png[/img]
+description=
 description=[url=http://theindiestone.com/forums/index.php/topic/2530-mod-permissions/?p=36478][img]https://steamuserimages-a.akamaihd.net/ugc/1822269007325041509/9A7DF10F3A778CF98E9CE7423417E8B6EA687334/?imw=5000&imh=5000[/img][/url]
 tags=Build 41;Realistic;Vehicles
-visibility=unlisted
+visibility=public

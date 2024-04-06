@@ -42,6 +42,7 @@ function Vehicles.Create.Window(vehicle, part)
 	old_Vehicles_Create_Window(vehicle, part)
 	if windowCanBeOpened(part) and open(SandboxVars.MoreImmersiveVehicles.OpenedWindowChance) then
 		part:getWindow():setOpen(true)
+		part:getWindow():setOpenDelta(1)
 		vehicle:transmitPartWindow(part)
 	end
 end
