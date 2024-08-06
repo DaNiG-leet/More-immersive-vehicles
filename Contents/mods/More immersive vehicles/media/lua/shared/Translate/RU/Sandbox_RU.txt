@@ -1,11 +1,20 @@
 Sandbox_RU = {
     Sandbox_MoreImmersiveVehicles = "More Immersive Vehicles",
-    Sandbox_OpenedDoorChance = "Ўанс открытой двери",
-	Sandbox_OpenedDoorChance_tooltip = " акой шанс на то, что дверь будет открыта.",
+    Sandbox_ParkOpenedDoorChance = "Ўанс открытой двери на парковке",
+	Sandbox_ParkOpenedDoorChance_tooltip = "Ўанс открытой двери у автомобил€, который по€вилс€ на парковке.",
 	
-	Sandbox_OpenedTrunkDoorChance = "Ўанс открытого багажника",
-	Sandbox_OpenedTrunkDoorChance_tooltip = " акой шанс на то, что багажник будет открыт.",
+	Sandbox_ParkOpenedTrunkDoorChance = "Ўанс открытого багажника на парковке",
+	Sandbox_ParkOpenedTrunkDoorChance_tooltip = "Ўанс открытого багажника у автомобил€, который по€вилс€ на парковке.",
 	
-	Sandbox_OpenedWindowChance = "Ўанс открытого окна",
-	Sandbox_OpenedWindowChance_tooltip = " акой шанс на то, что окно будет открыто.",
+	Sandbox_ParkOpenedWindowChance = "Ўанс открытого окна на парковке",
+	Sandbox_ParkOpenedWindowChance_tooltip = "Ўанс открытого окна у автомобил€, который по€вилс€ на парковке.",
+	
+	Sandbox_RoadOpenedDoorChance = "Ўанс открытой двери на дороге",
+	Sandbox_RoadOpenedDoorChance_tooltip = "Ўанс открытой двери у автомобил€, который по€вилс€ на дороге или в автомобильной пробке.",
+	
+	Sandbox_RoadOpenedTrunkDoorChance = "Ўанс открытого багажника на дороге",
+	Sandbox_RoadOpenedTrunkDoorChance_tooltip = "Ўанс открытого багажника у автомобил€, который по€вилс€ на дороге или в автомобильной пробке.",
+	
+	Sandbox_RoadOpenedWindowChance = "Ўанс открытого окна на дороге",
+	Sandbox_RoadOpenedWindowChance_tooltip = "Ўанс открытого окна у автомобил€, который по€вилс€ на дороге или в автомобильной пробке.",
 }

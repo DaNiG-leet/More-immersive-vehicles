@@ -1,0 +1,62 @@
+More Immersive Vehicles
+
+Project Zomboid is quite a realistic game, but the developers missed one point. Vehicles in the world appear only with closed doors, raised windows and closed trunks. This mod adds more immersiveness and atmosphere to the game! Vehicles can now have doors open, windows down, or trunks open.
+
+I highly recommend using this mod along with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807356025]Shark and Cytt's Kentucky Car Overhaul[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2490220997]vehicles by KI5[/url].
+Don't forget to adjust the probabilities in the sandbox settings!
+
+Update from 06.08.2024
+You can now separately configure probabilities for cars in a parking lot, as well as on the road or in traffic jams!
+
+[b]This mod can be added and removed from your saves without any problems.[/b]
+
+[b]WORKS IN SINLEPLAYER AND MULTIPLAYER![/b]
+
+[b]COMPATIBILITY[/b]
+Should be with all vehicles. If it is not, please let me know.
+
+[b]INCOMPATIBILITY[/b]
+Not sure, but possible with mods that add a new part that can be opened.
+
+[img]https://i.imgur.com/4HonJNk.png[/img]
+
+[url=http://theindiestone.com/forums/index.php/topic/2530-mod-permissions/?p=36478][img]https://steamuserimages-a.akamaihd.net/ugc/1822269007325041509/9A7DF10F3A778CF98E9CE7423417E8B6EA687334/?imw=5000&imh=5000[/img][/url]
+
+The product can be published on Steam only through an account with the name DaNiG.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project Zomboid достаточно реалистичная игра, но разработчики упустили один момент. Автомобили в мире появляются только с закрытыми дверьми, поднятыми стёклами и закрытыми багажниками. Этот мод добавляет больше иммерсивности и атмосферы в игру! Теперь у автомобилей могут быть открыты двери, опущены стёкла или открыт багажник.
+
+Настоятельно рекомендую использовать этот мод вместе с [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807356025]Shark and Cytt's Kentucky Car Overhaul[/url] и [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2490220997]автомобилями от KI5[/url].
+Не забудь настроить вероятности в настройках песочницы!
+
+Обновление от 06.08.2024
+Теперь можно отдельно настроить вероятности для автомобилей на парковке, а так же на дороге или в автомобильных пробках!
+
+[b]Этот мод можно без проблем добавлять и удалять из ваших сохронений.[/b]
+
+[b]РАБОТАЕТ И В ОДИНОЧНОЙ ИГРЕ И В МНОГОПОЛЬЗОВАТЕЛЬСКОЙ![/b]
+
+[b]СОВМЕСТИМОСТЬ[/b]
+Должна быть со всеми автомобилями. Если это не так, прошу, сообщите мне.
+
+[b]НЕСОВМЕСТИМОСТЬ[/b]
+Не уверен, но возможна с модами, которые добавляют новую деталь, которая может быть открыта.
+
+[img]https://i.imgur.com/4HonJNk.png[/img]
+
+[url=http://theindiestone.com/forums/index.php/topic/2530-mod-permissions/?p=36478][img]https://steamuserimages-a.akamaihd.net/ugc/1822269007325041509/9A7DF10F3A778CF98E9CE7423417E8B6EA687334/?imw=5000&imh=5000[/img][/url]
+
+Продукт может быть опубликован в Steam исключительно через аккаунт с именем DaNiG.

@@ -1,19 +1,37 @@
 VERSION = 1,
 
-option MoreImmersiveVehicles.OpenedDoorChance
+option MoreImmersiveVehicles.ParkOpenedDoorChance
 {
-	type = integer, min = 0, max = 100, default = 15,
-	page = MoreImmersiveVehicles, translation = OpenedDoorChance,
+	type = integer, min = 0, max = 100, default = 5,
+	page = MoreImmersiveVehicles, translation = ParkOpenedDoorChance,
 }
 
-option MoreImmersiveVehicles.OpenedTrunkDoorChance
+option MoreImmersiveVehicles.ParkOpenedTrunkDoorChance
+{
+	type = integer, min = 0, max = 100, default = 10,
+	page = MoreImmersiveVehicles, translation = ParkOpenedTrunkDoorChance,
+}
+
+option MoreImmersiveVehicles.ParkOpenedWindowChance
+{
+	type = integer, min = 0, max = 100, default = 5,
+	page = MoreImmersiveVehicles, translation = ParkOpenedWindowChance,
+}
+
+option MoreImmersiveVehicles.RoadOpenedDoorChance
+{
+	type = integer, min = 0, max = 100, default = 35,
+	page = MoreImmersiveVehicles, translation = RoadOpenedDoorChance,
+}
+
+option MoreImmersiveVehicles.RoadOpenedTrunkDoorChance
+{
+	type = integer, min = 0, max = 100, default = 45,
+	page = MoreImmersiveVehicles, translation = RoadOpenedTrunkDoorChance,
+}
+
+option MoreImmersiveVehicles.RoadOpenedWindowChance
 {
 	type = integer, min = 0, max = 100, default = 20,
-	page = MoreImmersiveVehicles, translation = OpenedTrunkDoorChance,
-}
-
-option MoreImmersiveVehicles.OpenedWindowChance
-{
-	type = integer, min = 0, max = 100, default = 25,
-	page = MoreImmersiveVehicles, translation = OpenedWindowChance,
+	page = MoreImmersiveVehicles, translation = RoadOpenedWindowChance,
 }
